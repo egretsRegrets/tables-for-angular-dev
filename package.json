@@ -1,0 +1,25 @@
+{
+  "name": "tables-for-angular-dev",
+  "version": "1.0.0",
+  "description": "a working project for developing tables-for-angular library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egretsRegrets/tables-for-angular-dev.git"
+  },
+  "keywords": [
+    "angular",
+    "Angular",
+    "table",
+    "datagrid"
+  ],
+  "author": "egretsRegrets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egretsRegrets/tables-for-angular-dev/issues"
+  },
+  "homepage": "https://github.com/egretsRegrets/tables-for-angular-dev#readme"
+}
