@@ -1,0 +1,1 @@
+console.log('src/main.ts console test');
