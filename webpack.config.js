@@ -26,7 +26,7 @@ module.exports = function() {
             ]),
             new HtmlWebpackPlugin({
                 template: __dirname + '/src/index.html',
-                output: __dirname + 'dist',
+                output: __dirname + '/dist',
                 inject: 'head'
             }),
             new ScriptExtPlugin({
