@@ -1,0 +1,1405 @@
+{"campaigns": [
+{
+    "campaignId": "sint",
+    "name": "laborum ipsum exercitation minim",
+    "type": "I",
+    "startDate": "14-05-04",
+    "primaryCountry": "KR",
+    "impressions": "32584006.6669",
+    "lastReleaseDate": "14-07-21",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "CB_09",
+      "GBT_10",
+      "CB_09",
+      "GBT_10",
+      "SD_03",
+      "CB_09"
+    ],
+    "clearedChecks": [
+      "SD_05",
+      "SD_05",
+      "IVT_01"
+    ]
+  },
+  {
+    "campaignId": "tempor",
+    "name": "dolore deserunt cillum enim",
+    "type": "I",
+    "startDate": "17-03-15",
+    "primaryCountry": "NF",
+    "impressions": "37779677.9272",
+    "lastReleaseDate": "15-03-25",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "IVT_01"
+    ],
+    "clearedChecks": []
+  },
+  {
+    "campaignId": "consequat",
+    "name": "sint aliqua aliquip incididunt",
+    "type": "E",
+    "startDate": "18-10-07",
+    "primaryCountry": "PF",
+    "impressions": "8687582.8162",
+    "lastReleaseDate": "17-07-09",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "QNP_04",
+      "CB_09",
+      "CB_09",
+      "SD_03",
+      "SD_03",
+      "IVT_01"
+    ],
+    "clearedChecks": [
+      "SD_03"
+    ]
+  },
+  {
+    "campaignId": "magna",
+    "name": "ea excepteur dolor elit",
+    "type": "I",
+    "startDate": "18-11-20",
+    "primaryCountry": "HT",
+    "impressions": "14708036.2322",
+    "lastReleaseDate": "19-03-26",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "GBT_10"
+    ],
+    "clearedChecks": [
+      "IVT_01"
+    ]
+  },
+  {
+    "campaignId": "fugiat",
+    "name": "qui ipsum proident sunt",
+    "type": "I",
+    "startDate": "19-05-31",
+    "primaryCountry": "GY",
+    "impressions": "54833496.9415",
+    "lastReleaseDate": "16-08-18",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "QNP_04"
+    ],
+    "clearedChecks": [
+      "SD_05",
+      "IVT_01",
+      "CB_09",
+      "SD_03",
+      "QNP_04",
+      "CB_09"
+    ]
+  },
+  {
+    "campaignId": "ex",
+    "name": "veniam consequat excepteur minim",
+    "type": "E",
+    "startDate": "16-04-29",
+    "primaryCountry": "EG",
+    "impressions": "26981413.9811",
+    "lastReleaseDate": "18-12-14",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "CB_09",
+      "GBT_10",
+      "SD_03",
+      "IVT_01"
+    ],
+    "clearedChecks": []
+  },
+  {
+    "campaignId": "occaecat",
+    "name": "aliqua velit in excepteur",
+    "type": "E",
+    "startDate": "14-09-10",
+    "primaryCountry": "UY",
+    "impressions": "44134510.6037",
+    "lastReleaseDate": "15-05-20",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "SD_05",
+      "SD_03",
+      "GBT_10"
+    ],
+    "clearedChecks": [
+      "QNP_04",
+      "IVT_01",
+      "IVT_01",
+      "QNP_04",
+      "SD_05"
+    ]
+  },
+  {
+    "campaignId": "ex",
+    "name": "ex irure non proident",
+    "type": "E",
+    "startDate": "18-01-30",
+    "primaryCountry": "DE",
+    "impressions": "81365145.0366",
+    "lastReleaseDate": "14-04-01",
+    "releaseStatus": "failed",
+    "failedChecks": [],
+    "clearedChecks": [
+      "SD_03",
+      "QNP_04",
+      "IVT_01",
+      "GBT_10",
+      "QNP_04",
+      "CB_09"
+    ]
+  },
+  {
+    "campaignId": "quis",
+    "name": "officia est sunt reprehenderit",
+    "type": "E",
+    "startDate": "16-02-09",
+    "primaryCountry": "PL",
+    "impressions": "55711645.3887",
+    "lastReleaseDate": "18-02-23",
+    "releaseStatus": "failed",
+    "failedChecks": [],
+    "clearedChecks": [
+      "QNP_04",
+      "IVT_01",
+      "CB_09",
+      "QNP_04",
+      "IVT_01",
+      "SD_03"
+    ]
+  },
+  {
+    "campaignId": "sint",
+    "name": "esse esse aute mollit",
+    "type": "I",
+    "startDate": "19-01-05",
+    "primaryCountry": "EE",
+    "impressions": "94980298.4825",
+    "lastReleaseDate": "18-04-14",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "CB_09",
+      "SD_05",
+      "CB_09",
+      "GBT_10",
+      "GBT_10",
+      "CB_09"
+    ],
+    "clearedChecks": [
+      "CB_09",
+      "SD_03"
+    ]
+  },
+  {
+    "campaignId": "voluptate",
+    "name": "ad pariatur nostrud ullamco",
+    "type": "E",
+    "startDate": "16-01-10",
+    "primaryCountry": "MS",
+    "impressions": "44540744.1765",
+    "lastReleaseDate": "18-09-13",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "GBT_10",
+      "IVT_01",
+      "CB_09",
+      "IVT_01",
+      "SD_03",
+      "IVT_01"
+    ],
+    "clearedChecks": [
+      "SD_05",
+      "SD_03"
+    ]
+  },
+  {
+    "campaignId": "deserunt",
+    "name": "cillum incididunt cillum ex",
+    "type": "E",
+    "startDate": "15-05-18",
+    "primaryCountry": "CI",
+    "impressions": "92910378.1311",
+    "lastReleaseDate": "17-06-02",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "SD_03",
+      "GBT_10",
+      "SD_03",
+      "GBT_10",
+      "SD_03",
+      "QNP_04"
+    ],
+    "clearedChecks": []
+  },
+  {
+    "campaignId": "anim",
+    "name": "proident magna sunt labore",
+    "type": "I",
+    "startDate": "18-06-22",
+    "primaryCountry": "IT",
+    "impressions": "28861807.8045",
+    "lastReleaseDate": "17-04-07",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "SD_05",
+      "QNP_04"
+    ],
+    "clearedChecks": [
+      "GBT_10",
+      "SD_05",
+      "SD_03"
+    ]
+  },
+  {
+    "campaignId": "non",
+    "name": "sit est aliqua fugiat",
+    "type": "I",
+    "startDate": "14-06-02",
+    "primaryCountry": "AW",
+    "impressions": "55968843.669",
+    "lastReleaseDate": "18-10-15",
+    "releaseStatus": "released",
+    "failedChecks": [],
+    "clearedChecks": []
+  },
+  {
+    "campaignId": "culpa",
+    "name": "in esse ea aliquip",
+    "type": "E",
+    "startDate": "14-08-31",
+    "primaryCountry": "SC",
+    "impressions": "20658363.5826",
+    "lastReleaseDate": "16-06-04",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "IVT_01",
+      "SD_05",
+      "GBT_10",
+      "CB_09",
+      "SD_05"
+    ],
+    "clearedChecks": []
+  },
+  {
+    "campaignId": "esse",
+    "name": "voluptate aliqua occaecat dolore",
+    "type": "E",
+    "startDate": "14-05-09",
+    "primaryCountry": "BR",
+    "impressions": "98143722.855",
+    "lastReleaseDate": "14-05-18",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "IVT_01",
+      "IVT_01",
+      "QNP_04",
+      "SD_03",
+      "SD_03",
+      "SD_05"
+    ],
+    "clearedChecks": [
+      "IVT_01"
+    ]
+  },
+  {
+    "campaignId": "do",
+    "name": "ullamco sit mollit anim",
+    "type": "E",
+    "startDate": "18-04-14",
+    "primaryCountry": "CY",
+    "impressions": "58101326.3576",
+    "lastReleaseDate": "18-03-10",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "IVT_01",
+      "SD_03",
+      "SD_03"
+    ],
+    "clearedChecks": [
+      "SD_03",
+      "CB_09",
+      "CB_09",
+      "QNP_04",
+      "QNP_04",
+      "QNP_04"
+    ]
+  },
+  {
+    "campaignId": "consequat",
+    "name": "deserunt eiusmod mollit in",
+    "type": "I",
+    "startDate": "17-07-20",
+    "primaryCountry": "CK",
+    "impressions": "19218987.9063",
+    "lastReleaseDate": "15-09-28",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "SD_05",
+      "GBT_10"
+    ],
+    "clearedChecks": [
+      "QNP_04",
+      "QNP_04",
+      "IVT_01"
+    ]
+  },
+  {
+    "campaignId": "nostrud",
+    "name": "Lorem veniam consequat laboris",
+    "type": "E",
+    "startDate": "17-09-27",
+    "primaryCountry": "DZ",
+    "impressions": "47146908.2918",
+    "lastReleaseDate": "15-02-22",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "IVT_01"
+    ],
+    "clearedChecks": [
+      "SD_03",
+      "SD_03"
+    ]
+  },
+  {
+    "campaignId": "excepteur",
+    "name": "fugiat esse laborum consectetur",
+    "type": "I",
+    "startDate": "15-02-18",
+    "primaryCountry": "FX",
+    "impressions": "32708972.6174",
+    "lastReleaseDate": "15-10-28",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "QNP_04",
+      "GBT_10",
+      "SD_05",
+      "SD_05",
+      "GBT_10"
+    ],
+    "clearedChecks": [
+      "SD_03",
+      "IVT_01"
+    ]
+  },
+  {
+    "campaignId": "nulla",
+    "name": "et proident nisi aliqua",
+    "type": "I",
+    "startDate": "15-05-05",
+    "primaryCountry": "TK",
+    "impressions": "54019500.8006",
+    "lastReleaseDate": "15-04-12",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "GBT_10",
+      "IVT_01",
+      "SD_05",
+      "CB_09"
+    ],
+    "clearedChecks": []
+  },
+  {
+    "campaignId": "proident",
+    "name": "velit ad nostrud enim",
+    "type": "I",
+    "startDate": "18-05-28",
+    "primaryCountry": "LS",
+    "impressions": "43072044.2546",
+    "lastReleaseDate": "17-04-01",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "GBT_10",
+      "IVT_01",
+      "CB_09",
+      "CB_09",
+      "QNP_04",
+      "QNP_04"
+    ],
+    "clearedChecks": [
+      "CB_09",
+      "SD_03",
+      "SD_03",
+      "SD_05",
+      "SD_03",
+      "QNP_04"
+    ]
+  },
+  {
+    "campaignId": "do",
+    "name": "laboris est consectetur nisi",
+    "type": "I",
+    "startDate": "14-09-07",
+    "primaryCountry": "AD",
+    "impressions": "37294326.8765",
+    "lastReleaseDate": "18-12-03",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "SD_05",
+      "SD_05",
+      "IVT_01"
+    ],
+    "clearedChecks": [
+      "IVT_01",
+      "SD_03",
+      "IVT_01",
+      "SD_03"
+    ]
+  },
+  {
+    "campaignId": "tempor",
+    "name": "laboris velit Lorem sit",
+    "type": "E",
+    "startDate": "19-01-15",
+    "primaryCountry": "MA",
+    "impressions": "10085930.2935",
+    "lastReleaseDate": "15-08-05",
+    "releaseStatus": "released",
+    "failedChecks": [],
+    "clearedChecks": [
+      "GBT_10"
+    ]
+  },
+  {
+    "campaignId": "esse",
+    "name": "culpa laborum eiusmod mollit",
+    "type": "E",
+    "startDate": "16-07-04",
+    "primaryCountry": "KI",
+    "impressions": "67738459.7818",
+    "lastReleaseDate": "17-10-16",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "QNP_04",
+      "CB_09",
+      "QNP_04",
+      "SD_05"
+    ],
+    "clearedChecks": [
+      "GBT_10",
+      "CB_09",
+      "SD_03",
+      "GBT_10"
+    ]
+  },
+  {
+    "campaignId": "sunt",
+    "name": "laborum consectetur do occaecat",
+    "type": "I",
+    "startDate": "19-04-26",
+    "primaryCountry": "UA",
+    "impressions": "24416849.3902",
+    "lastReleaseDate": "18-08-18",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "IVT_01",
+      "QNP_04",
+      "GBT_10"
+    ],
+    "clearedChecks": [
+      "CB_09",
+      "GBT_10"
+    ]
+  },
+  {
+    "campaignId": "mollit",
+    "name": "qui amet ex dolore",
+    "type": "I",
+    "startDate": "16-11-12",
+    "primaryCountry": "MN",
+    "impressions": "45246302.5018",
+    "lastReleaseDate": "18-11-05",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "IVT_01",
+      "SD_03"
+    ],
+    "clearedChecks": [
+      "GBT_10",
+      "SD_05"
+    ]
+  },
+  {
+    "campaignId": "aliqua",
+    "name": "est eiusmod labore nisi",
+    "type": "E",
+    "startDate": "14-04-24",
+    "primaryCountry": "TD",
+    "impressions": "87901338.697",
+    "lastReleaseDate": "17-10-20",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "SD_05",
+      "SD_05",
+      "QNP_04",
+      "IVT_01"
+    ],
+    "clearedChecks": [
+      "QNP_04",
+      "IVT_01",
+      "SD_05",
+      "QNP_04",
+      "QNP_04"
+    ]
+  },
+  {
+    "campaignId": "reprehenderit",
+    "name": "culpa aliquip commodo dolore",
+    "type": "E",
+    "startDate": "17-10-18",
+    "primaryCountry": "LV",
+    "impressions": "99675262.7707",
+    "lastReleaseDate": "15-11-24",
+    "releaseStatus": "released",
+    "failedChecks": [],
+    "clearedChecks": []
+  },
+  {
+    "campaignId": "quis",
+    "name": "incididunt consequat elit adipisicing",
+    "type": "E",
+    "startDate": "19-03-28",
+    "primaryCountry": "GA",
+    "impressions": "77078470.6292",
+    "lastReleaseDate": "15-09-15",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "CB_09"
+    ],
+    "clearedChecks": [
+      "IVT_01",
+      "IVT_01",
+      "QNP_04",
+      "SD_03",
+      "GBT_10"
+    ]
+  },
+  {
+    "campaignId": "non",
+    "name": "aliquip tempor laboris est",
+    "type": "E",
+    "startDate": "15-07-29",
+    "primaryCountry": "LY",
+    "impressions": "46519073.9941",
+    "lastReleaseDate": "16-06-03",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "GBT_10",
+      "CB_09",
+      "IVT_01",
+      "SD_03",
+      "IVT_01",
+      "CB_09"
+    ],
+    "clearedChecks": [
+      "GBT_10",
+      "SD_03"
+    ]
+  },
+  {
+    "campaignId": "cillum",
+    "name": "nisi deserunt cillum ad",
+    "type": "E",
+    "startDate": "18-12-14",
+    "primaryCountry": "PE",
+    "impressions": "2212278.1905",
+    "lastReleaseDate": "18-01-14",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "GBT_10"
+    ],
+    "clearedChecks": [
+      "GBT_10",
+      "SD_05",
+      "QNP_04",
+      "SD_05",
+      "CB_09"
+    ]
+  },
+  {
+    "campaignId": "non",
+    "name": "enim eu consectetur consectetur",
+    "type": "E",
+    "startDate": "18-04-16",
+    "primaryCountry": "SK",
+    "impressions": "3681861.7249",
+    "lastReleaseDate": "15-12-17",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "GBT_10",
+      "SD_03",
+      "GBT_10",
+      "GBT_10"
+    ],
+    "clearedChecks": [
+      "GBT_10",
+      "SD_05"
+    ]
+  },
+  {
+    "campaignId": "qui",
+    "name": "sit aliqua et adipisicing",
+    "type": "E",
+    "startDate": "16-07-16",
+    "primaryCountry": "IN",
+    "impressions": "55915036.9858",
+    "lastReleaseDate": "18-06-23",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "SD_05",
+      "IVT_01",
+      "GBT_10",
+      "QNP_04"
+    ],
+    "clearedChecks": [
+      "CB_09",
+      "SD_03",
+      "SD_05",
+      "CB_09",
+      "IVT_01"
+    ]
+  },
+  {
+    "campaignId": "non",
+    "name": "nostrud qui quis pariatur",
+    "type": "E",
+    "startDate": "14-02-09",
+    "primaryCountry": "KE",
+    "impressions": "85661783.7294",
+    "lastReleaseDate": "14-07-19",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "CB_09"
+    ],
+    "clearedChecks": [
+      "GBT_10"
+    ]
+  },
+  {
+    "campaignId": "quis",
+    "name": "quis eiusmod deserunt quis",
+    "type": "E",
+    "startDate": "16-11-21",
+    "primaryCountry": "GH",
+    "impressions": "39321036.8167",
+    "lastReleaseDate": "18-01-22",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "QNP_04",
+      "CB_09",
+      "QNP_04",
+      "CB_09",
+      "GBT_10",
+      "IVT_01"
+    ],
+    "clearedChecks": [
+      "IVT_01",
+      "GBT_10"
+    ]
+  },
+  {
+    "campaignId": "dolore",
+    "name": "aliquip elit ullamco magna",
+    "type": "E",
+    "startDate": "16-02-08",
+    "primaryCountry": "DK",
+    "impressions": "67319225.7695",
+    "lastReleaseDate": "14-02-25",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "SD_05",
+      "CB_09",
+      "QNP_04"
+    ],
+    "clearedChecks": [
+      "SD_03",
+      "IVT_01",
+      "QNP_04",
+      "SD_05",
+      "SD_05"
+    ]
+  },
+  {
+    "campaignId": "deserunt",
+    "name": "non minim minim minim",
+    "type": "I",
+    "startDate": "14-03-21",
+    "primaryCountry": "LU",
+    "impressions": "95397385.5117",
+    "lastReleaseDate": "17-07-11",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "GBT_10",
+      "CB_09",
+      "QNP_04",
+      "IVT_01",
+      "IVT_01"
+    ],
+    "clearedChecks": [
+      "GBT_10",
+      "GBT_10",
+      "CB_09",
+      "GBT_10"
+    ]
+  },
+  {
+    "campaignId": "est",
+    "name": "enim cillum ullamco commodo",
+    "type": "E",
+    "startDate": "15-01-14",
+    "primaryCountry": "TV",
+    "impressions": "25772784.2258",
+    "lastReleaseDate": "15-12-05",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "IVT_01"
+    ],
+    "clearedChecks": [
+      "CB_09",
+      "IVT_01"
+    ]
+  },
+  {
+    "campaignId": "cillum",
+    "name": "laborum irure exercitation esse",
+    "type": "E",
+    "startDate": "17-12-31",
+    "primaryCountry": "MP",
+    "impressions": "97034278.4633",
+    "lastReleaseDate": "16-02-13",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "GBT_10",
+      "GBT_10",
+      "CB_09",
+      "SD_05"
+    ],
+    "clearedChecks": [
+      "GBT_10"
+    ]
+  },
+  {
+    "campaignId": "est",
+    "name": "et irure ea eiusmod",
+    "type": "E",
+    "startDate": "19-03-04",
+    "primaryCountry": "LC",
+    "impressions": "43174452.8317",
+    "lastReleaseDate": "16-11-09",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "SD_05",
+      "GBT_10",
+      "SD_03"
+    ],
+    "clearedChecks": [
+      "CB_09",
+      "IVT_01",
+      "IVT_01",
+      "CB_09"
+    ]
+  },
+  {
+    "campaignId": "incididunt",
+    "name": "Lorem laborum minim culpa",
+    "type": "E",
+    "startDate": "17-12-15",
+    "primaryCountry": "GL",
+    "impressions": "34610982.5648",
+    "lastReleaseDate": "18-05-12",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "QNP_04",
+      "QNP_04",
+      "SD_03",
+      "QNP_04",
+      "IVT_01"
+    ],
+    "clearedChecks": [
+      "IVT_01",
+      "QNP_04",
+      "SD_05",
+      "SD_03",
+      "SD_03",
+      "GBT_10"
+    ]
+  },
+  {
+    "campaignId": "pariatur",
+    "name": "est esse eiusmod veniam",
+    "type": "E",
+    "startDate": "14-07-04",
+    "primaryCountry": "HN",
+    "impressions": "44961315.9092",
+    "lastReleaseDate": "14-10-21",
+    "releaseStatus": "failed",
+    "failedChecks": [],
+    "clearedChecks": [
+      "IVT_01",
+      "SD_05"
+    ]
+  },
+  {
+    "campaignId": "culpa",
+    "name": "cupidatat veniam eu anim",
+    "type": "I",
+    "startDate": "16-03-06",
+    "primaryCountry": "JM",
+    "impressions": "79328504.4571",
+    "lastReleaseDate": "16-01-10",
+    "releaseStatus": "failed",
+    "failedChecks": [],
+    "clearedChecks": [
+      "IVT_01",
+      "CB_09",
+      "CB_09",
+      "SD_03",
+      "CB_09",
+      "IVT_01"
+    ]
+  },
+  {
+    "campaignId": "dolore",
+    "name": "mollit do ullamco incididunt",
+    "type": "I",
+    "startDate": "18-09-29",
+    "primaryCountry": "ID",
+    "impressions": "55979736.6964",
+    "lastReleaseDate": "18-10-13",
+    "releaseStatus": "failed",
+    "failedChecks": [],
+    "clearedChecks": [
+      "SD_03",
+      "QNP_04",
+      "SD_03",
+      "QNP_04",
+      "IVT_01"
+    ]
+  },
+  {
+    "campaignId": "qui",
+    "name": "exercitation veniam ut ea",
+    "type": "I",
+    "startDate": "17-07-16",
+    "primaryCountry": "VG",
+    "impressions": "16324574.9927",
+    "lastReleaseDate": "14-12-03",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "SD_03",
+      "QNP_04"
+    ],
+    "clearedChecks": [
+      "CB_09"
+    ]
+  },
+  {
+    "campaignId": "mollit",
+    "name": "elit amet enim laboris",
+    "type": "E",
+    "startDate": "18-10-27",
+    "primaryCountry": "TO",
+    "impressions": "39226809.1285",
+    "lastReleaseDate": "16-09-01",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "CB_09",
+      "CB_09",
+      "IVT_01",
+      "CB_09",
+      "CB_09"
+    ],
+    "clearedChecks": [
+      "SD_05",
+      "CB_09",
+      "GBT_10",
+      "CB_09",
+      "IVT_01",
+      "QNP_04"
+    ]
+  },
+  {
+    "campaignId": "cupidatat",
+    "name": "ad nulla aliqua veniam",
+    "type": "E",
+    "startDate": "18-01-25",
+    "primaryCountry": "SM",
+    "impressions": "1411413.4294",
+    "lastReleaseDate": "18-07-16",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "GBT_10",
+      "GBT_10",
+      "IVT_01",
+      "QNP_04"
+    ],
+    "clearedChecks": [
+      "IVT_01",
+      "GBT_10",
+      "SD_05",
+      "CB_09",
+      "QNP_04",
+      "SD_03"
+    ]
+  },
+  {
+    "campaignId": "exercitation",
+    "name": "qui incididunt id exercitation",
+    "type": "E",
+    "startDate": "16-07-17",
+    "primaryCountry": "BG",
+    "impressions": "50774228.894",
+    "lastReleaseDate": "17-05-28",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "SD_03"
+    ],
+    "clearedChecks": [
+      "QNP_04",
+      "CB_09",
+      "CB_09",
+      "CB_09",
+      "CB_09",
+      "IVT_01"
+    ]
+  },
+  {
+    "campaignId": "aute",
+    "name": "ex sint excepteur velit",
+    "type": "E",
+    "startDate": "14-08-03",
+    "primaryCountry": "AG",
+    "impressions": "5992327.8923",
+    "lastReleaseDate": "15-06-25",
+    "releaseStatus": "failed",
+    "failedChecks": [],
+    "clearedChecks": [
+      "QNP_04",
+      "IVT_01",
+      "SD_05"
+    ]
+  },
+  {
+    "campaignId": "sint",
+    "name": "consectetur culpa officia laborum",
+    "type": "I",
+    "startDate": "16-03-11",
+    "primaryCountry": "TT",
+    "impressions": "94744762.7354",
+    "lastReleaseDate": "18-03-17",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "CB_09",
+      "SD_03",
+      "SD_03",
+      "CB_09"
+    ],
+    "clearedChecks": [
+      "QNP_04",
+      "GBT_10",
+      "IVT_01",
+      "IVT_01",
+      "SD_05"
+    ]
+  },
+  {
+    "campaignId": "ullamco",
+    "name": "in do culpa quis",
+    "type": "I",
+    "startDate": "16-07-08",
+    "primaryCountry": "BO",
+    "impressions": "11859870.574",
+    "lastReleaseDate": "19-06-15",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "IVT_01",
+      "IVT_01",
+      "SD_03"
+    ],
+    "clearedChecks": [
+      "GBT_10",
+      "QNP_04"
+    ]
+  },
+  {
+    "campaignId": "officia",
+    "name": "velit Lorem qui eu",
+    "type": "E",
+    "startDate": "19-03-31",
+    "primaryCountry": "CU",
+    "impressions": "33581436.8353",
+    "lastReleaseDate": "15-03-26",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "QNP_04",
+      "CB_09",
+      "CB_09",
+      "CB_09"
+    ],
+    "clearedChecks": [
+      "SD_03",
+      "CB_09",
+      "SD_03"
+    ]
+  },
+  {
+    "campaignId": "nulla",
+    "name": "cillum esse amet laborum",
+    "type": "I",
+    "startDate": "16-07-21",
+    "primaryCountry": "AQ",
+    "impressions": "74836128.6276",
+    "lastReleaseDate": "15-11-13",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "CB_09",
+      "SD_03",
+      "SD_05",
+      "GBT_10"
+    ],
+    "clearedChecks": [
+      "SD_05",
+      "SD_05",
+      "SD_05",
+      "SD_05",
+      "GBT_10"
+    ]
+  },
+  {
+    "campaignId": "exercitation",
+    "name": "labore aliquip sit fugiat",
+    "type": "E",
+    "startDate": "19-04-10",
+    "primaryCountry": "CX",
+    "impressions": "57750403.6236",
+    "lastReleaseDate": "15-11-27",
+    "releaseStatus": "failed",
+    "failedChecks": [],
+    "clearedChecks": []
+  },
+  {
+    "campaignId": "veniam",
+    "name": "tempor consectetur esse dolore",
+    "type": "E",
+    "startDate": "18-03-21",
+    "primaryCountry": "LK",
+    "impressions": "44597040.2729",
+    "lastReleaseDate": "19-06-21",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "SD_05"
+    ],
+    "clearedChecks": [
+      "SD_03"
+    ]
+  },
+  {
+    "campaignId": "nostrud",
+    "name": "proident anim laboris id",
+    "type": "E",
+    "startDate": "19-03-07",
+    "primaryCountry": "CR",
+    "impressions": "83564457.2439",
+    "lastReleaseDate": "14-08-17",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "IVT_01"
+    ],
+    "clearedChecks": [
+      "QNP_04",
+      "CB_09",
+      "SD_03",
+      "GBT_10"
+    ]
+  },
+  {
+    "campaignId": "occaecat",
+    "name": "ullamco labore et pariatur",
+    "type": "E",
+    "startDate": "16-12-07",
+    "primaryCountry": "NA",
+    "impressions": "7289525.861",
+    "lastReleaseDate": "15-10-10",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "QNP_04",
+      "IVT_01"
+    ],
+    "clearedChecks": [
+      "IVT_01",
+      "SD_03",
+      "SD_03",
+      "IVT_01",
+      "IVT_01"
+    ]
+  },
+  {
+    "campaignId": "ullamco",
+    "name": "veniam amet adipisicing quis",
+    "type": "I",
+    "startDate": "15-04-03",
+    "primaryCountry": "TJ",
+    "impressions": "35591361.7921",
+    "lastReleaseDate": "18-04-19",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "IVT_01",
+      "SD_05",
+      "IVT_01"
+    ],
+    "clearedChecks": [
+      "GBT_10",
+      "CB_09",
+      "SD_03",
+      "QNP_04"
+    ]
+  },
+  {
+    "campaignId": "proident",
+    "name": "elit eu sunt dolor",
+    "type": "I",
+    "startDate": "15-02-11",
+    "primaryCountry": "MG",
+    "impressions": "50565550.1186",
+    "lastReleaseDate": "19-03-10",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "SD_03"
+    ],
+    "clearedChecks": [
+      "SD_05"
+    ]
+  },
+  {
+    "campaignId": "deserunt",
+    "name": "proident esse aute fugiat",
+    "type": "E",
+    "startDate": "16-10-27",
+    "primaryCountry": "PN",
+    "impressions": "22410027.8992",
+    "lastReleaseDate": "14-08-01",
+    "releaseStatus": "released",
+    "failedChecks": [],
+    "clearedChecks": [
+      "CB_09",
+      "IVT_01",
+      "SD_03",
+      "QNP_04",
+      "GBT_10",
+      "SD_03"
+    ]
+  },
+  {
+    "campaignId": "nostrud",
+    "name": "consectetur fugiat ea exercitation",
+    "type": "E",
+    "startDate": "17-12-31",
+    "primaryCountry": "SY",
+    "impressions": "739096.0844",
+    "lastReleaseDate": "17-04-11",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "SD_05",
+      "CB_09",
+      "CB_09"
+    ],
+    "clearedChecks": [
+      "CB_09"
+    ]
+  },
+  {
+    "campaignId": "sit",
+    "name": "eiusmod adipisicing labore reprehenderit",
+    "type": "I",
+    "startDate": "17-05-23",
+    "primaryCountry": "CH",
+    "impressions": "13697409.6297",
+    "lastReleaseDate": "19-05-13",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "CB_09",
+      "CB_09",
+      "QNP_04",
+      "CB_09",
+      "CB_09",
+      "SD_05"
+    ],
+    "clearedChecks": []
+  },
+  {
+    "campaignId": "cupidatat",
+    "name": "pariatur pariatur nisi voluptate",
+    "type": "I",
+    "startDate": "16-11-08",
+    "primaryCountry": "PG",
+    "impressions": "86850089.4445",
+    "lastReleaseDate": "16-04-25",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "IVT_01",
+      "IVT_01",
+      "QNP_04",
+      "SD_05",
+      "SD_05"
+    ],
+    "clearedChecks": [
+      "SD_05",
+      "SD_05",
+      "CB_09",
+      "GBT_10",
+      "SD_03",
+      "IVT_01"
+    ]
+  },
+  {
+    "campaignId": "occaecat",
+    "name": "eiusmod nulla Lorem proident",
+    "type": "I",
+    "startDate": "14-07-08",
+    "primaryCountry": "UZ",
+    "impressions": "88734487.135",
+    "lastReleaseDate": "18-03-31",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "SD_05",
+      "SD_03",
+      "QNP_04",
+      "CB_09"
+    ],
+    "clearedChecks": [
+      "GBT_10",
+      "GBT_10",
+      "IVT_01",
+      "QNP_04",
+      "SD_05",
+      "IVT_01"
+    ]
+  },
+  {
+    "campaignId": "pariatur",
+    "name": "occaecat labore quis cillum",
+    "type": "I",
+    "startDate": "17-03-13",
+    "primaryCountry": "AI",
+    "impressions": "56312294.9686",
+    "lastReleaseDate": "16-04-30",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "QNP_04",
+      "IVT_01",
+      "SD_03",
+      "GBT_10"
+    ],
+    "clearedChecks": [
+      "CB_09"
+    ]
+  },
+  {
+    "campaignId": "elit",
+    "name": "non incididunt nisi reprehenderit",
+    "type": "E",
+    "startDate": "14-09-12",
+    "primaryCountry": "NG",
+    "impressions": "63194046.3745",
+    "lastReleaseDate": "14-06-03",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "IVT_01",
+      "SD_03",
+      "SD_03",
+      "GBT_10"
+    ],
+    "clearedChecks": [
+      "IVT_01",
+      "SD_05",
+      "CB_09",
+      "QNP_04",
+      "SD_03",
+      "CB_09"
+    ]
+  },
+  {
+    "campaignId": "cupidatat",
+    "name": "non occaecat non veniam",
+    "type": "I",
+    "startDate": "16-05-13",
+    "primaryCountry": "NR",
+    "impressions": "54856291.8724",
+    "lastReleaseDate": "16-10-04",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "IVT_01",
+      "GBT_10",
+      "CB_09",
+      "CB_09",
+      "SD_03",
+      "QNP_04"
+    ],
+    "clearedChecks": [
+      "QNP_04",
+      "QNP_04",
+      "IVT_01",
+      "CB_09"
+    ]
+  },
+  {
+    "campaignId": "deserunt",
+    "name": "tempor sit veniam mollit",
+    "type": "E",
+    "startDate": "14-05-29",
+    "primaryCountry": "KM",
+    "impressions": "74143118.3828",
+    "lastReleaseDate": "18-03-21",
+    "releaseStatus": "released",
+    "failedChecks": [],
+    "clearedChecks": [
+      "QNP_04",
+      "SD_05",
+      "IVT_01",
+      "GBT_10",
+      "QNP_04",
+      "CB_09"
+    ]
+  },
+  {
+    "campaignId": "ex",
+    "name": "ipsum velit cillum dolor",
+    "type": "E",
+    "startDate": "18-03-16",
+    "primaryCountry": "SV",
+    "impressions": "9499140.5189",
+    "lastReleaseDate": "15-09-12",
+    "releaseStatus": "failed",
+    "failedChecks": [
+      "IVT_01",
+      "QNP_04"
+    ],
+    "clearedChecks": []
+  },
+  {
+    "campaignId": "esse",
+    "name": "nostrud elit consectetur quis",
+    "type": "E",
+    "startDate": "18-11-26",
+    "primaryCountry": "SB",
+    "impressions": "2730813.3581",
+    "lastReleaseDate": "18-05-23",
+    "releaseStatus": "released",
+    "failedChecks": [
+      "CB_09",
+      "SD_05",
+      "IVT_01",
+      "IVT_01"
+    ],
+    "clearedChecks": [
+      "IVT_01",
+      "CB_09",
+      "QNP_04",
+      "QNP_04",
+      "QNP_04",
+      "IVT_01"
+    ]
+  }
+]}
