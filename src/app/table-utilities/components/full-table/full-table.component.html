@@ -1,1 +1,8 @@
-<pre>{{ data | json }}</pre>
+<div class="column" *ngFor="let column of config; index as colIndex">
+    <div class="column-header-cell">
+        {{column.headerText}}
+    </div>
+    <div class="column-cell" *ngFor="let row of data">
+        {{row[column.accessor]}}
+    </div>
+</div>
