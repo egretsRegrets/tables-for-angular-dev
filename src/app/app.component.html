@@ -1,1 +1,3 @@
-<full-table [data]="campaignData"></full-table>
+<main>
+    <full-table *ngIf="campaignsData" [data]="campaignsData" [config]="campaignColumnConfig"></full-table>
+</main>
