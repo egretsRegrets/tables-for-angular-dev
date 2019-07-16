@@ -1,0 +1,31 @@
+/* non table utility styles */
+main {
+    width: 90%;
+    margin: auto;
+    padding-top: 2.5%;
+}
+
+/* Table Utility Styles */
+/* FullTableComponent */
+full-table {
+    display: flex;
+}
+/* Componentless structural elements in FullTableComponent */
+.column {
+    flex-basis: 0;
+    flex-grow: 1;
+}
+
+.column-header-cell, .column-cell {
+    padding: .5rem;
+    white-space: nowrap;
+}
+
+.column-header-cell {
+    border-bottom: 2px solid rgb(213, 214, 210);
+    font-weight: 600;
+}
+
+.column-cell {
+    border-bottom: 1px solid rgb(213, 214, 210);
+}
