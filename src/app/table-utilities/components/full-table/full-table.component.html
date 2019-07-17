@@ -1,6 +1,8 @@
-<div *tuaTable="let column of config">
-    <span>{{column?.headerText}}</span>
-    <div *tuaRow="let row of data">
+<div class="column" *tuaColumn="let column of config">
+    <div class="column-header-cell">
+        {{column?.headerText}}
+    </div>
+    <div class="column-cell" *tuaBodyCell="let row of data">
         {{row[column?.accessor]}}
     </div>
 </div>

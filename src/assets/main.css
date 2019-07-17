@@ -10,7 +10,7 @@ main {
 full-table {
     display: flex;
 }
-/* Componentless structural elements in FullTableComponent */
+/* structural elements and directives in FullTableComponent */
 .column {
     flex-basis: 0;
     flex-grow: 1;

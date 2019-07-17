@@ -1,10 +1,10 @@
 import { Directive, Input, OnChanges, TemplateRef, ViewContainerRef } from '@angular/core';
 
 @Directive({
-    selector: '[tuaRow]'
+    selector: '[tuaBodyCell]'
 })
-export class RowScaffoldDirective implements OnChanges {
-    @Input() tuaRowOf: any[];
+export class TuaBodyCellDirective implements OnChanges {
+    @Input() tuaBodyCellOf: any[];
 
     constructor(
         private templateRef: TemplateRef<any>,
@@ -13,7 +13,7 @@ export class RowScaffoldDirective implements OnChanges {
 
     ngOnChanges() {
         this.viewContainerRef.clear();
-        this.tuaRowOf.forEach(row => {
+        this.tuaBodyCellOf.forEach(row => {
             this.viewContainerRef.createEmbeddedView(this.templateRef, {
                 $implicit: row
             });

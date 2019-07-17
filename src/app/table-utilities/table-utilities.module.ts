@@ -2,11 +2,11 @@ import { NgModule, TemplateRef } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 import { FullTableComponent } from './components';
-import { RowScaffoldDirective, TableScaffoldDirective } from './directives';
+import { TuaBodyCellDirective, TuaColumnDirective } from './directives';
 
 @NgModule({
     imports: [CommonModule],
-    declarations: [FullTableComponent, RowScaffoldDirective, TableScaffoldDirective],
+    declarations: [FullTableComponent, TuaBodyCellDirective, TuaColumnDirective],
     exports: [FullTableComponent]
 })
 export class TableUtilitiesModule {}

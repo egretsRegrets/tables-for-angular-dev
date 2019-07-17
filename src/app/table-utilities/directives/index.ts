@@ -1,7 +1,7 @@
-import { RowScaffoldDirective } from './row-scaffold.directive';
-import { TableScaffoldDirective } from './table-scaffold.directive';
+import { TuaBodyCellDirective } from './tua-body-cell.directive';
+import { TuaColumnDirective } from './tua-column.directive';
 
 export {
-    RowScaffoldDirective,
-    TableScaffoldDirective
+    TuaBodyCellDirective,
+    TuaColumnDirective
 }

@@ -3,20 +3,20 @@ import { Directive, Input, OnChanges, TemplateRef, ViewContainerRef } from '@ang
 import { IColumn } from '../models';
 
 @Directive({
-    selector: '[tuaTable]'
+    selector: '[tuaColumn]'
 })
-export class TableScaffoldDirective implements OnChanges {
+export class TuaColumnDirective implements OnChanges {
     
     constructor(
         private viewContainerRef: ViewContainerRef,
         private templateRef: TemplateRef<any>
     ) {}
 
-    @Input() tuaTableOf: any[] | IColumn[];
+    @Input() tuaColumnOf: any[] | IColumn[];
 
     ngOnChanges() {
         this.viewContainerRef.clear();
-        this.tuaTableOf.forEach(column => {
+        this.tuaColumnOf.forEach(column => {
             this.viewContainerRef.createEmbeddedView(this.templateRef, {
                 $implicit: column
             })
