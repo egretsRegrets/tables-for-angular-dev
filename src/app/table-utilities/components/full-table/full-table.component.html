@@ -1,8 +1,15 @@
-<div class="column" *ngFor="let column of config; index as colIndex">
+<div *tuaTable="let column of config">
+    <span>{{column?.headerText}}</span>
+    <div *tuaRow="let row of data">
+        {{row[column?.accessor]}}
+    </div>
+</div>
+
+<!-- <div class="column" *ngFor="let column of config; index as colIndex">
     <div class="column-header-cell">
         {{column.headerText}}
     </div>
     <div class="column-cell" *ngFor="let row of data">
         {{row[column.accessor]}}
     </div>
-</div>
+</div> -->
